@@ -1,5 +1,7 @@
 # PixelSchnee
 
+![PixelSchnee running in debug mode](pixelschnee.gif)
+
 This is a small and simple SFML demo drawing some simple pixel snow to your desktop background.
 It's a quick hack job to surprise a friend, so don't expect any major software engineering.
 
